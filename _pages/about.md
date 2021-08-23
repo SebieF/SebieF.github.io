@@ -2,7 +2,29 @@
 permalink: /about/
 title: "About"
 ---
+## Outline of this blog
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I have never been the one to talk much about myself. I have, however, been in love with science as long as I can
+remember. Science is in its foundations a very idealistic thing to pursue. Learning new things, investigating
+undisclosed areas that are beyond our current knowledge, expanding your own skill sets to be able to solve practical
+problems - all of this is just great! But not everyone is playing fair in this game,
+because there are major players in our field that seek to increase and manifest their power.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+That is why I want to start writing about my own journey towards *Open Science Research*, learn about its principles,
+publish my learnings and also discuss the relation between society and (my personal) research. All of this in order
+to foster science and the scientific method - one of the best ways we created to think about our world.
+
+## About me
+
+*Current*:
+* M.Sc. Informatics - TU Munich
+
+*Past*:
+* B.Sc. Informatics - LMU Munich
+* B.A.  Sociology   - LMU Munich
+
+## Publications
+
+**AIMED-RL: Exploring Adversarial Malware Examples with Reinforcement Learning**
+Raphael Labaca-Castro, Sebastian Franz, Gabi Dreo Rodosek
+(to be published at [ECML PKDD 2021](https://2021.ecmlpkdd.org/))
