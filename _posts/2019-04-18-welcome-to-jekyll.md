@@ -2,7 +2,7 @@
 title: "Blog Outline"
 date: 2021-08-23
 categories:
-  - general
+  - General
 ---
 
 I have never been the one to talk much about myself. I have, however, been in love with science as long as I can
