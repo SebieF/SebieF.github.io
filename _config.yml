@@ -56,16 +56,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sebastian Franz"
+  name   : "SebieF"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "M.Sc. Informatics - TU Munich"
+  bio    : "Open Science Blog about (Bio-)Informatics"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/SebieF"
 
 footer:
   links:
