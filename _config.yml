@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "SebieF"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://avatars.githubusercontent.com/u/32578476?v=4"
   bio    : "Open Science Blog about (Bio-)Informatics"
   links:
     - label: "GitHub"
