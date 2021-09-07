@@ -23,7 +23,7 @@ to foster science and the scientific method - one of the best ways we created to
 * B.Sc. Informatics - LMU Munich
 * B.A.  Sociology   - LMU Munich
 
-## Publications
+## Research
 
 **AIMED-RL: Exploring Adversarial Malware Examples with Reinforcement Learning**  
 Raphael Labaca-Castro, Sebastian Franz, Gabi Dreo Rodosek  
