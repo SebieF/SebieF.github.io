@@ -20,7 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 twitter_username: 
 github_username: SebieF
 repository:  SebieF/SebieF.github.io
-minimal_mistakes_skin: default
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
@@ -58,7 +59,7 @@ plugins:
 
 author:
   name   : "SebieF"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://avatars.githubusercontent.com/u/32578476?v=4"
   bio    : "Open Science Blog about (Bio-)Informatics"
   links:
     - label: "GitHub"
