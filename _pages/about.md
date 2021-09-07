@@ -25,6 +25,7 @@ to foster science and the scientific method - one of the best ways we created to
 
 ## Publications
 
-**AIMED-RL: Exploring Adversarial Malware Examples with Reinforcement Learning**
-Raphael Labaca-Castro, Sebastian Franz, Gabi Dreo Rodosek
-(to be published at [ECML PKDD 2021](https://2021.ecmlpkdd.org/))
+**AIMED-RL: Exploring Adversarial Malware Examples with Reinforcement Learning**  
+Raphael Labaca-Castro, Sebastian Franz, Gabi Dreo Rodosek  
+Paper: [ECML PKDD 2021](https://2021.ecmlpkdd.org/wp-content/uploads/2021/08/sub_445.pdf)  
+Code: [GitHub/AIMED](https://github.com/zRapha/AIMED)  
