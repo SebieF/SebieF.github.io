@@ -30,7 +30,6 @@ Raphael Labaca-Castro, Sebastian Franz, Gabi Dreo Rodosek
 Paper: [ECML PKDD 2021](https://2021.ecmlpkdd.org/wp-content/uploads/2021/08/sub_445.pdf)  
 Code: [GitHub/AIMED](https://github.com/zRapha/AIMED)  
 
-<sub><sup>
 ## Imprint
 
 Angaben gemäß § 5 TMG
@@ -84,4 +83,3 @@ Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Inform
 hiermit ausdrücklich widersprochen. 
 Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von 
 Werbeinformationen, etwa durch Spam-Mails, vor.
-</sub></sup>
