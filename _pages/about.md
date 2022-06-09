@@ -34,9 +34,9 @@ Code: [GitHub/AIMED](https://github.com/zRapha/AIMED)
 
 ### Other
 
-**BL-Addon to simplify the creation of synthetic crystal image datasets** 
+**BL-Addon to simplify the creation of synthetic crystal image datasets**  
 Code: [GitHub/pcs](https://github.com/bisdan/pcs)  
-Acknowledgement in: [Bischoff, D.; Wall, B.; Weuster-Botz, D. 2022](https://link.springer.com/article/10.1007/s00216-022-04101-8)  
+Acknowledgement in: [Bischoff, D.; Walla, B.; Weuster-Botz, D. 2022](https://link.springer.com/article/10.1007/s00216-022-04101-8)  
 Contribution to conference poster at: [BioPro 2022](https://dechema.de/BioPro22.html)  
 
 ## Imprint
